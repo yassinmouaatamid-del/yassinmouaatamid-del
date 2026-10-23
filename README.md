@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Mouaatamid Yassine
 
-<!--
-**yassinmouaatamid-del/yassinmouaatamid-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Networks | Cloud | Cybersecurity
 
-Here are some ideas to get you started:
+🎓 Bachelor student in Networks, Cloud and Cybersecurity at EST Kelaa des Sraghna, Morocco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in network administration, Linux systems, cloud computing and network security. I enjoy learning through practical labs and technical projects.
+
+## 🛠️ Technical Skills
+
+- **Networking:** TCP/IP, VLANs, Routing, Switching, DNS, DHCP
+- **Systems:** Linux, Rocky Linux, Windows
+- **Programming:** Python, C, C++, Java, SQL
+- **Virtualization:** Oracle VirtualBox, VMware
+- **Security:** Network Access Control (NAC), SSH, Firewall concepts
+- **Tools:** Git, GitHub, Wireshark
+
+## 🚀 Featured Projects
+
+### 🔐 Mini Network Access Control (NAC)
+Practical network security project involving VLAN segmentation, device access control and network monitoring.
+
+### ☎️ Secure VoIP Infrastructure
+Open-source VoIP project based on Asterisk, SIP, softphones and security mechanisms.
+
+### 🐧 Linux System Administration
+Hands-on labs with Rocky Linux, permissions, file systems, users and command-line administration.
+
+### 💻 Object-Oriented Programming
+Programming exercises and practical projects using Python, Java and C++.
+
+## 📚 Currently Learning
+
+- Network administration and troubleshooting
+- Cloud computing and virtualization
+- Linux system administration
+- Network security fundamentals
+
+## 🌐 Connect with Me
+
+- **GitHub:** https://github.com/yassinmouaatamid-del
+- **LinkedIn:** https://www.linkedin.com/in/yassine-mouaatamid
+- **Email:** yassin.mouaatamid@gmail.com
+
+---
+
+*Learning by building. Growing through practice.*
